@@ -1,0 +1,15 @@
+/Users/dilaranisasenkulak/Projects/event_uygulamasıı/event_uygulamasıı/bin/Debug/net6.0/event_uygulamasıı
+/Users/dilaranisasenkulak/Projects/event_uygulamasıı/event_uygulamasıı/bin/Debug/net6.0/event_uygulamasıı.deps.json
+/Users/dilaranisasenkulak/Projects/event_uygulamasıı/event_uygulamasıı/bin/Debug/net6.0/event_uygulamasıı.runtimeconfig.json
+/Users/dilaranisasenkulak/Projects/event_uygulamasıı/event_uygulamasıı/bin/Debug/net6.0/event_uygulamasıı.dll
+/Users/dilaranisasenkulak/Projects/event_uygulamasıı/event_uygulamasıı/bin/Debug/net6.0/event_uygulamasıı.pdb
+/Users/dilaranisasenkulak/Projects/event_uygulamasıı/event_uygulamasıı/obj/Debug/net6.0/event_uygulamasıı.csproj.AssemblyReference.cache
+/Users/dilaranisasenkulak/Projects/event_uygulamasıı/event_uygulamasıı/obj/Debug/net6.0/event_uygulamasıı.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilaranisasenkulak/Projects/event_uygulamasıı/event_uygulamasıı/obj/Debug/net6.0/event_uygulamasıı.AssemblyInfoInputs.cache
+/Users/dilaranisasenkulak/Projects/event_uygulamasıı/event_uygulamasıı/obj/Debug/net6.0/event_uygulamasıı.AssemblyInfo.cs
+/Users/dilaranisasenkulak/Projects/event_uygulamasıı/event_uygulamasıı/obj/Debug/net6.0/event_uygulamasıı.csproj.CoreCompileInputs.cache
+/Users/dilaranisasenkulak/Projects/event_uygulamasıı/event_uygulamasıı/obj/Debug/net6.0/event_uygulamasıı.dll
+/Users/dilaranisasenkulak/Projects/event_uygulamasıı/event_uygulamasıı/obj/Debug/net6.0/refint/event_uygulamasıı.dll
+/Users/dilaranisasenkulak/Projects/event_uygulamasıı/event_uygulamasıı/obj/Debug/net6.0/event_uygulamasıı.pdb
+/Users/dilaranisasenkulak/Projects/event_uygulamasıı/event_uygulamasıı/obj/Debug/net6.0/event_uygulamasıı.genruntimeconfig.cache
+/Users/dilaranisasenkulak/Projects/event_uygulamasıı/event_uygulamasıı/obj/Debug/net6.0/ref/event_uygulamasıı.dll
